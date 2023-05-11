@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Goose-max
 - 👀 I’m interested in Mechanical Engineering, Robotics, Programming (C, C+, Python)
-- 🌱 I’m currently learning Mechanical Engineering
+- 🌱 I’m currently learning mechatronics engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
